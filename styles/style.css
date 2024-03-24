@@ -115,5 +115,10 @@ margin-bottom: 20px;
 }
 
 .section-4{
-    background-image: url(Flower Asset/Rectangle 9.png);
+    background-image: url("/images/rectangle.png");
+    height: 450px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0px 210px;
+    margin-bottom: 100px;
 }
