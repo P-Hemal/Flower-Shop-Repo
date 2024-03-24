@@ -1,0 +1,45 @@
+*{
+    margin: auto;
+}
+.banner-container{
+    display: flex;
+    justify-content: space-between;
+    background-color: #fceef1;
+    align-items: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-bottom: 150px;
+}
+.banner{
+    
+}
+.banner-title{
+    font-size: 64px;
+    margin-bottom: 25px;
+    color: #272727;
+}
+.banner-description{
+margin-bottom: 25px;
+color: #7c7778;
+}
+.btn-shop{
+    background-color: #e55473;
+    color: white;
+    border: none;
+    padding: 10px 25px 10px 25px;
+    border-radius: 5px;
+}
+
+.flower-text{
+    text-align: center;
+}
+.Flower-title{
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+.flower-description{
+    font-size: 24px;
+}
+.featured-flower{
+    display: flex;
+}
