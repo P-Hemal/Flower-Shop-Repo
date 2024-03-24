@@ -42,4 +42,50 @@ color: #7c7778;
 }
 .featured-flower{
     display: flex;
+    margin-bottom: 100px;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 100px;
+}
+.flower-1{
+background-color: #f2dee7;
+padding: 40px 40px 0px 40px;
+border-radius: 220px 220px 0px 0px;
+
+}
+.flower-2{
+background-color:#d9eff1 ;
+padding: 40px 40px 0px 40px;
+border-radius: 220px 220px 0px 0px;
+background-size: 200px;
+margin-left: 5px;
+}
+.flower-3{
+background-color: #e3ebdb;
+padding: 40px 40px 0px 40px;
+border-radius: 220px 220px 0px 0px;
+background-size: 200px;
+margin-left: 5px;
+}
+
+
+.section-card{
+    display: flex;
+    background-color: #f4f4f4;
+    margin-bottom: 100px;
+    height: 200px;
+    text-align: center;
+    margin-left: 330px;
+    margin-right: 330px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    padding: 30px;
+}
+.card{
+    margin-top: 20px;
+    font-size: 16px;
+    
 }
